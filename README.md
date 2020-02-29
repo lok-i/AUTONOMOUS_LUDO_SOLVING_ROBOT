@@ -5,7 +5,7 @@
 
 
 ## Problem Statement:
-                  Pixelate of Technecx2019 ,expected us to develop a robot for playing a ludo like game using the live feed from a over head web cam fead.The detailed PS:(https://github.com/lok-i/PIXELATE_TECHNEX2019/blob/master/Robonex_Pixelate.pdf).
+Pixelate of Technecx2019 ,expected us to develop a robot for playing a ludo like game using the live feed from a over head web cam fead.The detailed PS:(https://github.com/lok-i/PIXELATE_TECHNEX2019/blob/master/Robonex_Pixelate.pdf).
                                                            
                                                            
 ## Our Solution:
